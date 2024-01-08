@@ -36,8 +36,4 @@ Terceiro; ir para a MV XP, em "search",
 
 Quarto, voltar para a MV Kali e digitar o ip, onde foi pedido
 
-![IMG_20240106_232741655_HDR](https://github.com/AlyssaCrivellaro/KaliPishing/assets/114755240/6f48ec04-b535-47d1-b307-efc69a3a4918)
 
-![IMG_20240106_231840936_HDR](https://github.com/AlyssaCrivellaro/KaliPishing/assets/114755240/0d30d96f-8b65-457c-ba56-3bdacb90e2a9)
-
-![IMG_20240106_231706501_MFNR](https://github.com/AlyssaCrivellaro/KaliPishing/assets/114755240/f871ce27-2dc4-4e1b-ac91-8d5618db6cdb)
